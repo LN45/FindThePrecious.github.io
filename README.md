@@ -8,3 +8,7 @@
 * Les polices sont utilisées et la typographie respectée.  
 * Le résultat ressemble au plus près à la maquette graphique fournie (au moins pour les parties navbar, slider et portraits).  
 * Le site est bien entendu responsive.  
+
+<img class="d-block w-100" src="https://i.goopics.net/eXgl5.png" alt="slide">
+
+
